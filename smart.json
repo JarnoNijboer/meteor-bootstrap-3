@@ -3,7 +3,7 @@
   "description": "bootswatch theme darkly packaged for meteor",
   "homepage": "https://github.com/JarnoNijboer/meteor-bootswatch-darkly",
   "author": "Jarno Nijboer (git@nijboer.me)",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "git": "https://github.com/JarnoNijboer/meteor-bootswatch-darkly",
   "packages": { }
 }
