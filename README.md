@@ -1,13 +1,13 @@
-Meteor Bootstrap-3
-==================
+Meteor Bootswatch Darkly
+=======================
 
-[Bootstrap 3.x](http://getbootstrap.com) packaged for [Meteor](http://meteor.com).
+Bootswatch theme [Darkly](http://bootswatch.com/darkly/) package for Meteor
 
-
-### Installation
+Installation
+------------
 
 With [Meteorite](https://github.com/oortcloud/meteorite) installed:
 
 ```sh
-$ mrt add bootstrap-3
+$ mrt add bootswatch-darkly
 ```
