@@ -2,7 +2,7 @@
   "name": "bootswatch-darkly",
   "description": "bootswatch theme darkly packaged for meteor",
   "homepage": "https://github.com/JarnoNijboer/meteor-bootswatch-darkly",
-  "author": "Jarno Nijboer (git@nijboer.me)",
+  "author": "Jarno Nijboer (http://nijboer.me)",
   "version": "0.0.2",
   "git": "https://github.com/JarnoNijboer/meteor-bootswatch-darkly",
   "packages": { }
